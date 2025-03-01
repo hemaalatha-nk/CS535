@@ -1,4 +1,4 @@
-# Hello World Example - Getting Started with Isaac Sim
+# Task 1 - Getting Started with Isaac Sim
 
 ## Introduction
 This guide walks you through opening and verifying the **Hello World** example in Isaac Sim, as well as accessing its source code for editing in Visual Studio Code. Additionally, it explains how the logic and UI elements of the application are structured and provides steps for reloading the example.
