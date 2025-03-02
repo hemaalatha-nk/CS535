@@ -1,4 +1,4 @@
-# Task 2: Import the URDF File
+# Task 3: Import the URDF File
 
 ## Step 1: Download the Elephant Robotics ROS Repository
 
