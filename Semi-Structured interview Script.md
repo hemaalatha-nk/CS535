@@ -22,7 +22,7 @@
 ## **Task-Specific Feedback**
 ### 1. Task 1
 - How did you find the process of completing the tasks in Omniverse? Was it intuitive or challenging?
-- How easy or difficult was it to open and verify the Hello World example?
+- How easy or difficult was it to open and verify the Task 1 example?
 - Did you face any issues opening the source code in Visual Studio Code?
 
 ### 2. Task 2 
