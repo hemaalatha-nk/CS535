@@ -6,6 +6,6 @@
 - [System Usability Scale (SUS) Questionnaire](https://forms.office.com/r/ePYM5y90e8?origin=lprLink)
 - [Cognitive Load Scale (CLS)](https://forms.office.com/r/qS7sKi7WPV?origin=lprLink)
 
-## Pre-Survey Questionnaire: Evaluating User Expectations Before Using NVIDIA Omniverse
+## Pre-Survey Questionnaire
 
 - [Pre Survey Questionnaire](https://forms.office.com/r/7qGDa6cLGe?origin=lprLink)
